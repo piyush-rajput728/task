@@ -1,0 +1,16 @@
+    {
+        "info": [
+            {
+                "id": 1,
+                "category": "Blazer",
+                "image": "https://www.abc.com/img.png",
+                "subCategory": "Red Full Sleves"
+            },
+            {
+                "id": 2,
+                "category": "’Kurta’",
+                "image": "’https://www.abc.com/img.png’,stock:400",
+                "subCategory": "Neck Embroidery"
+            }
+        ]
+    }
